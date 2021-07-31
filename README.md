@@ -15,6 +15,8 @@ Trabajo como administrador de sistemas en la Escuela Técnica Henry Ford (https:
 ## Curriculum
 Acepto ofertas de empleo en USD: [curriculum.pdf](https://github.com/Martoxdlol/Martoxdlol/blob/main/curriculum%20censurado.pdf)
 
+También acepto oferta de proyectos de alto riesgo donde quemar tiempo y plata
+
 ## Cosas interesantes para ver
 Acá hay un par de cosas interesantes, no está completa la lista pero bueno
 
