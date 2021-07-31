@@ -1,6 +1,8 @@
 # Tomás Cichero
 Hola, me llamo Tomás
 
+Soy técnico electromecánico pero eso es lo de menos. Prefiero autodenominarme desarrollador de software.
+
 Hago cosas web, aveces cosas para Windows o para Android. Me gusta experimentar con software y lenguajes. No siempre me funcionan. 
 
 Mi dios actual es JavaScript pero por ahora...
