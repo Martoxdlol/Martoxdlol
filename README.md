@@ -5,6 +5,9 @@ Tengo muchos proyectos sin terminar. Algun día será.
 Estudio ingeniería informática en la Universiad de Buenos Aires
 Trabajo como administrador de sistemas en la Escuela Técnica Henry Ford (https://wwwx.henryford.edu.ar/ Demo de la nueva página. El diseño es malo pero me dedico al software no al diseño gráfico)
 
+## Curriculum
+Acepto ofertas de empleo en USD: [curriculum.pdf](https://github.com/Martoxdlol/Martoxdlol/blob/main/curriculum%20censurado.pdf)
+
 ## Cosas interesantes para ver
 Acá hay un par de cosas interesantes, no está completa la lista pero bueno
 
