@@ -30,3 +30,5 @@ Acá hay un par de cosas interesantes, no está completa la lista pero bueno
 •	Hackatón Acindar 2020: https://safe-moving.abcd.ar/
 
 •	Cuenta regresiva de evento: https://martoxdlol.github.io/cuenta-regresiva/
+
+•	Página web de ETHF: https://www.henryford.edu.ar/
