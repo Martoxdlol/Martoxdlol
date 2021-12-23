@@ -5,16 +5,15 @@ Soy técnico electromecánico pero eso es lo de menos. Prefiero autodenominarme 
 
 Hago cosas web, aveces cosas para Windows o para Android. Me gusta experimentar con software y lenguajes. No siempre me funcionan. 
 
-Mi dios actual es JavaScript pero por ahora...
+Mi lenguaje principal actual es JavaScript pero también tengo experiencia programando en Python, C y Dart. (Se programar en otros lenguajes pero no tengo tanta experiencia)
 
 Tengo muchos proyectos sin terminar. Algun día será.
-
 
 Estudio ingeniería informática en la Universiad de Buenos Aires
 
 Trabajo como administrador de sistemas en la Escuela Técnica Henry Ford. Vean la página hecha enteramente por mí https://www.henryford.edu.ar/.
 ## Curriculum
-Acepto ofertas de empleo en USD: [curriculum.pdf](https://github.com/Martoxdlol/Martoxdlol/blob/main/curriculum%20censurado.pdf)
+Acepto ofertas de empleo en USD
 
 También acepto oferta de proyectos de alto riesgo donde quemar tiempo y plata
 
