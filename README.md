@@ -7,12 +7,14 @@ También soy técnico electromecánico.
 
 Mi lenguaje principal actual es JavaScript pero también tengo experiencia programando en Python, C y Dart. (Se programar en otros lenguajes pero no tengo tanta experiencia)
 
-Tengo muchos proyectos sin terminar. Algun día será.
+Tengo muchos proyectos sin terminar. Algún día será.
 
-Estudio ingeniería informática en la Universiad de Buenos Aires
+Estudio ingeniería informática en la Universidad de Buenos Aires
 
 Trabajo como administrador de sistemas en la Escuela Técnica Henry Ford. Vean la página hecha enteramente por mí https://www.henryford.edu.ar/.
-## Curriculum
+
+## Trabajo
+
 Acepto ofertas de empleo en USD
 
 También acepto oferta de proyectos de alto riesgo donde quemar tiempo y plata
