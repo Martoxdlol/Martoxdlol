@@ -1,9 +1,9 @@
 # Tomás Cichero
 Hola, me llamo Tomás
 
-Soy técnico electromecánico pero eso es lo de menos. Prefiero autodenominarme desarrollador de software.
+Soy estudiante de ingeniería informática en la UBA. Me dedico desde hace tiempo a aprender y desarrollar software en diversas plataformas y lenguajes. Tengo amplio conocimiento en tecnología. Me gusta aprender y entender como funcionan las cosas.
 
-Hago cosas web, aveces cosas para Windows o para Android. Me gusta experimentar con software y lenguajes. No siempre me funcionan. 
+También soy técnico electromecánico.
 
 Mi lenguaje principal actual es JavaScript pero también tengo experiencia programando en Python, C y Dart. (Se programar en otros lenguajes pero no tengo tanta experiencia)
 
