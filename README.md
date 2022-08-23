@@ -22,6 +22,8 @@ También acepto oferta de proyectos de alto riesgo donde quemar tiempo y plata
 ## Cosas interesantes para ver
 Acá hay un par de cosas interesantes, no está completa la lista pero bueno
 
+•	Página web de ETHF: https://www.henryford.edu.ar/
+
 •	App de cumpleaños Android: https://play.google.com/store/apps/details?id=net.tomascichero.birthdayremainder&hl=es_AR&gl=US
 
 •	App Youtube PiP Windows 10 https://www.microsoft.com/store/productId/9N1SSMCVVWTQ
@@ -32,4 +34,4 @@ Acá hay un par de cosas interesantes, no está completa la lista pero bueno
 
 •	Cuenta regresiva de evento: https://martoxdlol.github.io/cuenta-regresiva/
 
-•	Página web de ETHF: https://www.henryford.edu.ar/
+
