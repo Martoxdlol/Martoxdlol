@@ -1,37 +1,42 @@
-# Tomás Cichero
-Hola, me llamo Tomás
+# Tomás Cichero [tomas.ar](https://tomas.ar)
+Hi, my name is Tomás.
 
-Soy estudiante de ingeniería informática en la UBA. Me dedico desde hace tiempo a aprender y desarrollar software en diversas plataformas y lenguajes. Tengo amplio conocimiento en tecnología. Me gusta aprender y entender como funcionan las cosas.
+I am a computer engineering student at UBA (University of Buenos Aires). I have been dedicating my time to learn and develop software on different platforms and programming languages. I have extensive knowledge in technology, and I enjoy learning and understanding how things work.
 
-También soy técnico electromecánico.
+I am also an electromechanical technician.
 
-Mi lenguaje principal actual es JavaScript pero también tengo experiencia programando en Python, C y Dart. (Se programar en otros lenguajes pero no tengo tanta experiencia)
+My primary language of expertise is JavaScript/TypeScript, but I also have experience in programming with Python, C, Dart and SmallTalk (yes, really). (I can program in other languages, but I do not have as much experience).
 
-Tengo muchos proyectos sin terminar. Algún día será.
+My favourite web stack is t3 (https://create.t3.gg/)
 
-Estudio ingeniería informática en la Universidad de Buenos Aires
+My favourite language is **dart**
 
-Trabajo como administrador de sistemas en la Escuela Técnica Henry Ford. Vean la página hecha enteramente por mí https://www.henryford.edu.ar/.
+I'm really intrested on AI technologies like GPT-3, ChatGPT, Stable Diffusion and others
 
-## Trabajo
+I have many unfinished projects, but someday I will complete them.
 
-Acepto ofertas de empleo en USD
+I study computer engineering at the University of Buenos Aires.
 
-También acepto oferta de proyectos de alto riesgo donde quemar tiempo y plata
+I work as a systems administrator at Henry Ford Technical School. Check out the website I created entirely by myself: https://www.henryford.edu.ar/.
 
-## Cosas interesantes para ver
-Acá hay un par de cosas interesantes, no está completa la lista pero bueno
+## Interesting things to see
 
-•	Página web de ETHF: https://www.henryford.edu.ar/
+Here are a few interesting things. The list is not complete, but it's a start:
 
-•	App de cumpleaños Android: https://play.google.com/store/apps/details?id=net.tomascichero.birthdayremainder&hl=es_AR&gl=US
+ - ETHF website: https://www.henryford.edu.ar/
+ 
+ - AI generated blog https://autogen-blog.web.app/
 
-•	App Youtube PiP Windows 10 https://www.microsoft.com/store/productId/9N1SSMCVVWTQ
+ - Android birthday reminder app: https://play.google.com/store/apps/details?id=net.tomascichero.birthdayremainder&hl=es_AR&gl=US
 
-•	TP integrador 2020: https://xea.abcd.ar/
+ - Youtube PiP Windows 10/11 app: https://www.microsoft.com/store/productId/9N1SSMCVVWTQ
 
-•	Hackatón Acindar 2020: https://safe-moving.abcd.ar/
+ - IOT smart switch old project https://github.com/Martoxdlol/smart-light-key-iot
 
-•	Cuenta regresiva de evento: https://martoxdlol.github.io/cuenta-regresiva/
+ - 2020 Integrative project: https://xea.abcd.ar/
+ 
+ - Super fast web page with Astro.build, Firebase, and GitHub actions https://github.com/Martoxdlol/digital-help
 
+ - Acindar Hackathon 2020: https://safe-moving.abcd.ar/
 
+ - Event countdown: https://martoxdlol.github.io/cuenta-regresiva/
