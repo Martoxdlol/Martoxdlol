@@ -31,6 +31,8 @@ Here are a few interesting things. The list is not complete, but it's a start:
 
  - Youtube PiP Windows 10/11 app: https://www.microsoft.com/store/productId/9N1SSMCVVWTQ
 
+ - Node + Mongo + Redis Oauth2 implementation https://github.com/Martoxdlol/oauth2-active-directory-nodejs
+
  - IOT smart switch old project https://github.com/Martoxdlol/smart-light-key-iot
 
  - 2020 Integrative project: https://xea.abcd.ar/
