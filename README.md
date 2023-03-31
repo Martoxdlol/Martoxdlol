@@ -26,6 +26,8 @@ Here are a few interesting things. The list is not complete, but it's a start:
  - ETHF website: https://www.henryford.edu.ar/
 
  - Equipment Booking App: https://github.com/Martoxdlol/equipment_booking_app
+
+ - I AN TECH landing page: https://www.iantech.com.ar/
  
  - AI generated blog https://autogen-blog.web.app/
 
