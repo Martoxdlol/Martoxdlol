@@ -17,7 +17,7 @@ I have many unfinished projects, but someday I will complete them.
 
 I study computer engineering at the University of Buenos Aires.
 
-I work as a systems administrator at Henry Ford Technical School. Check out the website I created entirely by myself: https://www.henryford.edu.ar/.
+I work as a full stack developer at [Kiwibot](https://www.kiwibot.com/)
 
 ## Interesting things to see
 
